@@ -22,7 +22,7 @@ The Transformer consists of an encoder-decoder structure:
 
 **•	Decoder:** Uses the encoder's output to produce the desired output sequence.
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/danypetkar/Transformer/blob/main/IMG_20241013_161904415_MF_PORTRAIT~4.jpg)
 
 ## Components:
 **•	Multi-Head Attention:** Allows the model to jointly attend to information from different representation subspaces.
