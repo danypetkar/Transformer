@@ -14,7 +14,7 @@ Transformers are a fundamental part of natural language processing and are used 
 
 
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/danypetkar/Transformer/blob/main/IMG_4514h%20(Phone)%20(1).jpg)
 
 The Transformer consists of an encoder-decoder structure:
 
